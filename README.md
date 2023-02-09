@@ -90,8 +90,8 @@ Freelancer
 
 [linkedin]: https://www.linkedin.com/in/Kalanithi-aiml/
 [twitter]: https://twitter.com/Kalanithi_AI
-[Instagram]: https://www.instagram.com/_Kalanithi_/
-[gmail]: mailto:
+[Instagram]: https://www.instagram.com/kalanithi22/
+[gmail]: mailto:thananseyakalanithi@gmail.com
 
 
   
