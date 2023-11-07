@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <!-- Banner -->
-<h1 align = "center"> Hi,I'm Kalanithi</h1>
+<h1 align = "center"> Hi,I'm Kalanithi T</h1>
 <p align = "center"> Love to help people solve their problems</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KALANITHII&label=Profile%20views&color=0e75b6&style=flat" alt="Kalanithi" /> </p>
