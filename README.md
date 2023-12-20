@@ -10,7 +10,7 @@
 * Machine Learning and Deep Learning
 * NLP (Natural Language Processing)
 * Computer vision
-* Time Series Analysis
+* Generative AI
 
 <!-- work experience  -->
 ## Work Experience
